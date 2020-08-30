@@ -1,0 +1,32 @@
+C# is simple, modern , general purpose and object oriented programming language.
+
+C# offered by Microsoft.
+
+OOPS:
+Classes and objects
+inheritance
+polymorphism
+Abstraction
+Encapsulation
+
+VS Code: IDE: Integrated Development Environment
+
+1. C# extension
+2. .Net Core SDK
+
+
+mkdir : make directory/folder
+cd: change directory/folder
+
+C# Develop Program:
+
+1. dotnet new console
+2. dotnet run
+
+
+
+
+
+
+
+
